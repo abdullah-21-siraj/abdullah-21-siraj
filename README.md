@@ -32,6 +32,5 @@
 ### 😂 Random Dev Meme
 <img src='https://memer-new.vercel.app/' style="height: 400px;"/>
 
-![Snake animation](https://github.com/abdullah-21-siraj/abdullah-21-siraj/blob/output/github-contribution-grid-snake.svg)
 
 
