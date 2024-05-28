@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **freelanceabdullah21@gmail.com**
 
-- ⚡ Fun fact **💡 Fun Fact: When I'm not coding, you can find me exploring the latest tech gadgets or mastering the art of making the perfect cup of coffee! ☕️**
+- ⚡ Fun fact **When I'm not coding, you can find me exploring the latest tech gadgets or mastering the art of making the perfect cup of coffee! ☕️**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
